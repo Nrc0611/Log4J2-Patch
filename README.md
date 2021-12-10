@@ -1,0 +1,1 @@
+This particular patch was made for Paper Spigot 1.8.8. It will work on any custom 1.8.8 Server Jar.
